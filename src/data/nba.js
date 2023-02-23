@@ -866,11 +866,6 @@ const nba_data =
      "club": "Dallas Mavericks",
      "players": [
       [
-       "Luka Doncic",
-       "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629029.png",
-       1
-      ],
-      [
        "Dennis Smith Jr.",
        "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628372.png",
        2
@@ -1266,11 +1261,6 @@ const nba_data =
        "Norris Cole",
        "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202708.png",
        1
-      ],
-      [
-       "LeBron James",
-       "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
-       1
       ]
      ]
     },
@@ -1281,21 +1271,6 @@ const nba_data =
       [
        "Kevon Looney",
        "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png",
-       1
-      ],
-      [
-       "Klay Thompson",
-       "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png",
-       1
-      ],
-      [
-       "Kevin Durant",
-       "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png",
-       2
-      ],
-      [
-       "Jordan Bell",
-       "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628395.png",
        1
       ],
       [
@@ -1477,11 +1452,6 @@ const nba_data =
       [
        "Patrick McCaw",
        "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627775.png",
-       1
-      ],
-      [
-       "LeBron James",
-       "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
        1
       ],
       [
@@ -2760,11 +2730,6 @@ const nba_data =
       [
        "Dion Waiters",
        "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203079.png",
-       1
-      ],
-      [
-       "Kevin Durant",
-       "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png",
        1
       ],
       [
@@ -4146,11 +4111,6 @@ const nba_data =
      "id": 27,
      "club": "Minnesota Timberwolves",
      "players": [
-      [
-       "Karl-Anthony Towns",
-       "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png",
-       1
-      ],
       [
        "Andrew Wiggins",
        "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png",

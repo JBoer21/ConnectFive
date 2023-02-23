@@ -1428,11 +1428,6 @@ const soccer_data =
                2
               ],
               [
-               "G. Bale",
-               "https://cdn.sofifa.net/players/173/731/22_120.png",
-               2
-              ],
-              [
                "E. Hazard",
                "https://cdn.sofifa.net/players/183/277/22_120.png",
                2
