@@ -1,0 +1,35 @@
+.expanding-message {
+  border: 1px solid black;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: height 0.5s ease-in-out;
+  padding: 15px;
+  font-weight: 650;
+  font-family: 'Raleway', sans-serif;
+  border-radius: 25px;
+  background-color: #CCC;
+}
+
+.before-expand {
+  visibility: visible;
+  opacity: 1;
+  color: blue;
+}
+
+.after-expand {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.5s ease-in-out;
+}
+
+.expanding-message:hover .after-expand {
+  visibility: visible;
+  opacity: 1;
+}
+
+.expanding-message:hover {
+  height: auto;
+}
