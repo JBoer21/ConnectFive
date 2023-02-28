@@ -10509,11 +10509,6 @@ const soccer_data =
              "club": "Sport-Club Freiburg",
              "logo": "Sport-Club Freiburg",
              "players": [
-                [
-                    "M. Ginter",
-                    "https://cdn.sofifa.net/players/207/862/22_120.png",
-                    3
-                   ],
               [
                "V. Grifo",
                "https://cdn.sofifa.net/players/212/096/22_120.png",
