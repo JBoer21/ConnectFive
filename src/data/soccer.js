@@ -278,6 +278,11 @@ const soccer_data =
              "club": "FC Barcelona",
              "logo": "https://cdn.sofifa.net/teams/241/60.png",
              "players": [
+              [
+               "T. Motta",
+               "https://cdn.sofifa.net/players/049/370/18_120.png",
+               1
+              ],
                 [
                     "Maxwell",
                     "https://cdn.sofifa.net/players/053/405/17_120.png",
@@ -467,12 +472,12 @@ const soccer_data =
                "S. Aguero",
                "https://cdn.sofifa.net/players/153/079/22_120.png",
                2
-              ]
+              ],
               [
                "S. Umtiti",
                "https://cdn.sofifa.net/players/205/600/22_120.png",
                2
-              ]
+              ],
               [
                "Junior Firpo",
                "https://cdn.sofifa.net/players/241/184/21_120.png",
@@ -1248,6 +1253,11 @@ const soccer_data =
              "logo": "https://cdn.sofifa.net/teams/243/60.png",
              "players": [
                 [
+                    "Soldado",
+                    "https://cdn.sofifa.net/players/146/758/17_120.png",
+                    5
+                   ],
+                [
                     "S. Eto'o",
                     "https://cdn.sofifa.net/players/009/676/18_120.png",
                     2
@@ -1469,6 +1479,11 @@ const soccer_data =
              "club": "Manchester City",
              "logo": "https://cdn.sofifa.net/teams/10/60.png",
              "players": [
+                [
+                    "C. Tevez",
+                    "https://cdn.sofifa.net/players/143/001/17_120.png",
+                    2
+                   ]
                 [
                     "N. de Jong",
                     "https://cdn.sofifa.net/players/053/578/16_120.png",
@@ -1868,6 +1883,11 @@ const soccer_data =
              "club": "Atl\u00e9tico de Madrid",
              "logo": "https://cdn.sofifa.net/teams/240/60.png",
              "players": [
+              [
+               "T. Motta",
+               "https://cdn.sofifa.net/players/049/370/18_120.png",
+               1
+              ],
                 [
                     "Hugo Sanchez",
                     "https://cdn.futbin.com/content/fifa23/img/players/247547.png?v=23",
@@ -3193,6 +3213,11 @@ const soccer_data =
              "logo": "https://cdn.sofifa.net/teams/236/60.png",
              "players": [
                 [
+                    "Hulk",
+                    "https://cdn.sofifa.net/players/189/362/21_120.png",
+                    2
+                   ],
+                [
                     "Thiago Silva",
                     "https://cdn.sofifa.net/players/164/240/22_120.png",
                     2
@@ -3409,6 +3434,11 @@ const soccer_data =
              "club": "Liverpool",
              "logo": "https://cdn.sofifa.net/teams/9/60.png",
              "players": [
+                [
+                    "Javier Mascherano",
+                    "https://futhead.cursecdn.com/static/img/20/players/142754.png",
+                    5
+                   ],
                 [
                     "Jonjo Shelvey",
                     "https://futhead.cursecdn.com/static/img/19/players/189165.png",
@@ -4563,6 +4593,11 @@ const soccer_data =
              "club": "Inter",
              "logo": "https://cdn.sofifa.net/teams/44/60.png",
              "players": [
+                [
+                    "T. Motta",
+                    "https://cdn.sofifa.net/players/049/370/18_120.png",
+                    1
+                   ],
                 [
                     "Felipe Caicedo",
                     "https://futhead.cursecdn.com/static/img/15/players/175254.png",
@@ -5769,11 +5804,6 @@ const soccer_data =
                "T. Rosicky",
                "https://cdn.sofifa.net/players/008/473/18_120.png",
                2
-              ],
-              [
-               "P. Mertesacker",
-               "https://cdn.sofifa.net/players/053/612/18_120.png",
-               1
               ]
              ]
             },
@@ -7043,6 +7073,11 @@ const soccer_data =
              "club": "Valencia CF",
              "logo": "https://cdn.sofifa.net/teams/461/60.png",
              "players": [
+                [
+                    "Soldado",
+                    "https://cdn.sofifa.net/players/146/758/17_120.png",
+                    5
+                   ],
                 [
                     "Canales",
                     "https://cdn.sofifa.net/players/190/286/22_120.png",
@@ -8899,7 +8934,16 @@ const soccer_data =
              "id": 53,
              "club": "SV Werder Bremen",
              "logo": "https://cdn.sofifa.net/teams/38/60.png",
-             "players": [
+             "players": [[
+                "Naldo",
+                "https://cdn.sofifa.net/players/171/919/20_120.png",
+                3
+               ],
+                [
+                    "P. Mertesacker",
+                    "https://cdn.sofifa.net/players/053/612/18_120.png",
+                    1
+                   ]
                 [
                     "M. Klose",
                     "https://cdn.sofifa.net/players/011/141/16_120.png",
@@ -10277,6 +10321,11 @@ const soccer_data =
              "logo": "https://cdn.sofifa.net/teams/1860/60.png",
              "players": [
                 [
+                    "Soldado",
+                    "https://cdn.sofifa.net/players/146/758/17_120.png",
+                    5
+                   ],
+                [
                     "M. Flamini",
                     "https://cdn.sofifa.net/players/156/722/17_120.png",
                     1
@@ -10808,6 +10857,11 @@ const soccer_data =
              "club": "OGC Nice",
              "logo": "https://cdn.sofifa.net/teams/72/60.png",
              "players": [
+                [
+                    "P. Evra",
+                    "https://cdn.sofifa.net/players/052/091/18_120.png",
+                    2
+                   ],
                 [
                     "H. Lloris",
                     "https://cdn.sofifa.net/players/167/948/22_120.png",
@@ -11444,21 +11498,6 @@ const soccer_data =
                4
               ],
               [
-               "E. Rigoni",
-               "https://cdn.sofifa.net/players/215/259/18_120.png",
-               4
-              ],
-              [
-               "C. Noboa",
-               "https://cdn.sofifa.net/players/187/457/18_120.png",
-               3
-              ],
-              [
-               "A. Lunev",
-               "https://cdn.sofifa.net/players/229/909/22_120.png",
-               3
-              ],
-              [
                "D. Criscito",
                "https://cdn.sofifa.net/players/173/208/20_120.png",
                3
@@ -11471,11 +11510,6 @@ const soccer_data =
               [
                "B. Ivanovic",
                "https://cdn.sofifa.net/players/178/372/21_120.png",
-               3
-              ],
-              [
-               "Javi Garcia",
-               "https://cdn.sofifa.net/players/161/754/17_120.png",
                3
               ],
               [
@@ -11497,16 +11531,6 @@ const soccer_data =
                "E. Garay",
                "https://cdn.sofifa.net/players/170/481/20_120.png",
                2
-              ],
-              [
-               "I. Smolnikov",
-               "https://cdn.sofifa.net/players/187/347/18_120.png",
-               1
-              ],
-              [
-               "O. Shatov",
-               "https://cdn.sofifa.net/players/206/273/18_120.png",
-               1
               ]
              ]
             },
@@ -12238,6 +12262,11 @@ const soccer_data =
              "club": "Genoa",
              "logo": "https://cdn.sofifa.net/teams/110556/60.png",
              "players": [
+                [
+                    "T. Motta",
+                    "https://cdn.sofifa.net/players/049/370/18_120.png",
+                    1
+                   ],
                 [
                     "Felipe Caicedo",
                     "https://futhead.cursecdn.com/static/img/15/players/175254.png",
@@ -13010,6 +13039,16 @@ const soccer_data =
              "logo": "https://cdn.sofifa.net/teams/19/60.png",
              "players": [
                 [
+                    "P. Evra",
+                    "https://cdn.sofifa.net/players/052/091/18_120.png",
+                    2
+                   ],
+                [
+                    "Javier Mascherano",
+                    "https://futhead.cursecdn.com/static/img/20/players/142754.png",
+                    5
+                   ],
+                [
                     "Glen Johnson",
                     "https://futhead.cursecdn.com/static/img/15/players/137782.png",
                     5
@@ -13450,6 +13489,11 @@ const soccer_data =
              "club": "Hannover 96",
              "logo": "https://cdn.sofifa.net/teams/485/60.png",
              "players": [
+                [
+                    "P. Mertesacker",
+                    "https://cdn.sofifa.net/players/053/612/18_120.png",
+                    1
+                   ],
               [
                "Joselu",
                "https://cdn.sofifa.net/players/173/608/23_60.png",
@@ -13940,18 +13984,8 @@ const soccer_data =
                5
               ],
               [
-               "Ruben Alcaraz",
-               "https://cdn.sofifa.net/players/229/788/20_120.png",
-               4
-              ],
-              [
                "David Lopez",
                "https://cdn.sofifa.net/players/201/505/19_120.png",
-               3
-              ],
-              [
-               "Mata",
-               "https://cdn.sofifa.net/players/223/578/22_120.png",
                3
               ],
               [
@@ -13975,24 +14009,9 @@ const soccer_data =
                3
               ],
               [
-               "Borja Garcia",
-               "https://cdn.sofifa.net/players/194/761/19_120.png",
-               3
-              ],
-              [
                "Oriol Romeu",
                "https://cdn.sofifa.net/players/199/576/18_120.png",
                3
-              ],
-              [
-               "Iraizoz",
-               "https://cdn.sofifa.net/players/114/764/17_120.png",
-               2
-              ],
-              [
-               "Granell",
-               "https://cdn.sofifa.net/players/223/682/19_120.png",
-               2
               ]
              ]
             },
@@ -14001,6 +14020,11 @@ const soccer_data =
              "club": "Middlesbrough",
              "logo": "https://cdn.sofifa.net/teams/12/60.png",
              "players": [
+                [
+                    "John Obi Mikel",
+                    "https://futhead.cursecdn.com/static/img/14/players/164477.png",
+                    4
+                   ],
                 [
                     "Rob Huth",
                     "https://futhead.cursecdn.com/static/img/16/players/137785.png",
@@ -14440,6 +14464,11 @@ const soccer_data =
              "club": "Leeds United",
              "logo": "https://cdn.sofifa.net/teams/8/60.png",
              "players": [
+                [
+                    "A. Lennon",
+                    "https://cdn.sofifa.net/players/152/747/15_120.png",
+                    4
+                   ],
                 [
                     "Scott Carson",
                     "https://futhead.cursecdn.com/static/img/17/players/157804.png",

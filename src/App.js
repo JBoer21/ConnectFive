@@ -296,6 +296,9 @@ localStorage.setItem('myArray', JSON.stringify(used_teams));
       <p className = "alert-stop fade-in">
         Unable to guess. Correct answer was {solution.club}
       </p>
+      <button className="new-button" onClick={newGame}>
+  <img src="https://cdn-icons-png.flaticon.com/512/399/399422.png" alt="New Game" />
+  </button>
       </center>
     )}
     {isCorrect === "Correct" && (
