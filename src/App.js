@@ -210,6 +210,7 @@ localStorage.setItem('myArray', JSON.stringify(used_teams));
     const r = Math.floor(Math.random() * randomSolution.players.length);
     if (arr.indexOf(r) === -1) arr.push(r);
   }
+  arr.sort((a, b) => a - b); // sort in increasing order
     setSolution(randomSolution);
     setNumbers(arr);
   }

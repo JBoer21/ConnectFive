@@ -187,11 +187,6 @@ const soccer_data =
                2
               ],
               [
-               "E. Lavezzi",
-               "https://cdn.sofifa.net/players/159/065/20_120.png",
-               2
-              ],
-              [
                "A. Rabiot",
                "https://cdn.sofifa.net/players/210/008/22_120.png",
                2
@@ -1236,11 +1231,6 @@ const soccer_data =
                1
               ],
               [
-               "A. Barzagli",
-               "https://cdn.sofifa.net/players/137/186/19_120.png",
-               1
-              ],
-              [
                "L. Paredes",
                "https://cdn.sofifa.net/players/207/439/23_60.png",
                1
@@ -1479,6 +1469,11 @@ const soccer_data =
              "club": "Manchester City",
              "logo": "https://cdn.sofifa.net/teams/10/60.png",
              "players": [
+                [
+                    "M. Balotelli",
+                    "https://cdn.sofifa.net/players/186/627/20_120.png",
+                    5
+                   ],
                 [
                     "C. Tevez",
                     "https://cdn.sofifa.net/players/143/001/17_120.png",
@@ -1742,6 +1737,16 @@ const soccer_data =
              "logo": "https://cdn.sofifa.net/teams/175/60.png",
              "players": [
                 [
+                    "A. Barzagli",
+                    "https://cdn.sofifa.net/players/137/186/19_120.png",
+                    1
+                   ],
+                [
+                    "Obafemi Martins",
+                    "https://futhead.cursecdn.com/static/img/21/players/137494.png",
+                    5
+                   ],
+                [
                     "Nicklas Bendtner",
                     "https://futhead.cursecdn.com/static/img/19/players/167706.png",
                     4
@@ -1883,6 +1888,11 @@ const soccer_data =
              "club": "Atl\u00e9tico de Madrid",
              "logo": "https://cdn.sofifa.net/teams/240/60.png",
              "players": [
+                [
+                    "John Heitinga",
+                    "https://futhead.cursecdn.com/static/img/15/players/49425.png",
+                    3
+                   ],
               [
                "T. Motta",
                "https://cdn.sofifa.net/players/049/370/18_120.png",
@@ -3435,6 +3445,11 @@ const soccer_data =
              "logo": "https://cdn.sofifa.net/teams/9/60.png",
              "players": [
                 [
+                    "Stewart Downing",
+                    "https://futhead.cursecdn.com/static/img/20/players/54013.png",
+                    5
+                   ],
+                [
                     "Javier Mascherano",
                     "https://futhead.cursecdn.com/static/img/20/players/142754.png",
                     5
@@ -3606,6 +3621,11 @@ const soccer_data =
              "club": "Southampton",
              "logo": "https://cdn.sofifa.net/teams/17/60.png",
              "players": [
+                [
+                    "G. Bale",
+                    "https://cdn.sofifa.net/players/173/731/23_60.png",
+                    1
+                   ],
                 [
                     "Elijero Elia",
                     "https://futhead.cursecdn.com/static/img/21/players/172049.png",
@@ -4594,6 +4614,16 @@ const soccer_data =
              "logo": "https://cdn.sofifa.net/teams/44/60.png",
              "players": [
                 [
+                    "Obafemi Martins",
+                    "https://futhead.cursecdn.com/static/img/21/players/137494.png",
+                    5
+                   ],
+                [
+                    "M. Balotelli",
+                    "https://cdn.sofifa.net/players/186/627/20_120.png",
+                    5
+                   ],
+                [
                     "T. Motta",
                     "https://cdn.sofifa.net/players/049/370/18_120.png",
                     1
@@ -4895,6 +4925,11 @@ const soccer_data =
              "club": "Everton",
              "logo": "https://cdn.sofifa.net/teams/7/60.png",
              "players": [
+                [
+                    "John Heitinga",
+                    "https://futhead.cursecdn.com/static/img/15/players/49425.png",
+                    3
+                   ],
                 [
                     "Mikel Arteta",
                     "https://futhead.cursecdn.com/static/img/15/players/45119.png",
@@ -6235,11 +6270,6 @@ const soccer_data =
                2
               ],
               [
-               "I. Rakitic",
-               "https://cdn.sofifa.net/players/168/651/22_120.png",
-               2
-              ],
-              [
                "Iago Aspas",
                "https://cdn.sofifa.net/players/192/629/22_120.png",
                2
@@ -7492,6 +7522,11 @@ const soccer_data =
              "club": "Napoli",
              "logo": "https://cdn.sofifa.net/teams/48/60.png",
              "players": [
+                [
+                    "E. Lavezzi",
+                    "https://cdn.sofifa.net/players/159/065/20_120.png",
+                    2
+                   ],
                 [
                     "Fabio Cannavaro",
                     "https://cdn.futbin.com/content/fifa23/img/players/239065.png?v=23",
@@ -9507,6 +9542,16 @@ const soccer_data =
              "logo": "https://cdn.sofifa.net/teams/13/60.png",
              "players": [
                 [
+                    "Obafemi Martins",
+                    "https://futhead.cursecdn.com/static/img/21/players/137494.png",
+                    5
+                   ],
+                [
+                    "J. Milner",
+                    "https://cdn.sofifa.net/players/138/412/22_120.png",
+                    2
+                   ],
+                [
                     "Patrick Van Aaanholt",
                     "https://futhead.cursecdn.com/static/img/20/players/186190.png",
                     5
@@ -9966,6 +10011,16 @@ const soccer_data =
              "club": "Aston Villa",
              "logo": "Aston Villa",
              "players": [
+                [
+                    "Stewart Downing",
+                    "https://futhead.cursecdn.com/static/img/20/players/54013.png",
+                    5
+                   ],
+                [
+                    "J. Milner",
+                    "https://cdn.sofifa.net/players/138/412/22_120.png",
+                    2
+                   ],
                 [
                     "Brad Friedel",
                     "https://futhead.cursecdn.com/static/img/15/players/11983.png",
@@ -10462,6 +10517,11 @@ const soccer_data =
              "club": "Wolverhampton Wanderers",
              "logo": "https://cdn.sofifa.net/teams/110/60.png",
              "players": [
+                [
+                    "Tom Huddlestone",
+                    "https://futhead.cursecdn.com/static/img/19/players/54033.png",
+                    5
+                   ],
                 [
                     "Wayne Hennessey",
                     "https://futhead.cursecdn.com/static/img/21/players/170084.png",
@@ -11789,6 +11849,11 @@ const soccer_data =
              "logo": "Fulham",
              "players": [
                 [
+                    "John Heitinga",
+                    "https://futhead.cursecdn.com/static/img/15/players/49425.png",
+                    3
+                   ],
+                [
                     "A. Taarabt",
                     "https://cdn.sofifa.net/players/179/605/16_120.png",
                     3
@@ -11875,6 +11940,11 @@ const soccer_data =
              "club": "Sunderland",
              "logo": "https://cdn.sofifa.net/teams/106/60.png",
              "players": [
+                [
+                    "Stewart Downing",
+                    "https://futhead.cursecdn.com/static/img/20/players/54013.png",
+                    5
+                   ],
                 [
                     "Marcos Alonso",
                     "https://cdn.sofifa.net/players/192/638/22_120.png",
@@ -14459,6 +14529,11 @@ const soccer_data =
              "club": "Leeds United",
              "logo": "https://cdn.sofifa.net/teams/8/60.png",
              "players": [
+                [
+                    "J. Milner",
+                    "https://cdn.sofifa.net/players/138/412/22_120.png",
+                    2
+                   ],
                 [
                     "A. Lennon",
                     "https://cdn.sofifa.net/players/152/747/15_120.png",
